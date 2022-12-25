@@ -1,0 +1,4 @@
+com/custom/annotations/validator/ColorValidator.class
+com/custom/Application.class
+com/custom/annotations/ColorValidation.class
+com/custom/handlers/ColorExceptionHandler.class
